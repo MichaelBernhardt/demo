@@ -3,3 +3,5 @@ Shopping list
 Milk
 Bread
 Cheese
+Egg
+Bread
